@@ -1,6 +1,6 @@
 var fs = require('fs'),
     path = require('path'),
-    yms = require('yms'),
+    yms = require('../'),
     plg = yms.plugins,
     // You can require your own packages.
     express = yms.express,

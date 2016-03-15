@@ -5,7 +5,7 @@ Server for projects built with [ymb](https://www.npmjs.org/package/ymb). Runs on
 
 Requirements
 ------------
-yms works with Node.js 0.10.
+yms works with Node.js 4.
 
 Getting Started
 ---------------
